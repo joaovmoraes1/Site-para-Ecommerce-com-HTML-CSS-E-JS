@@ -25,4 +25,4 @@ Licença:
 Este projeto está licenciado sob a MIT License - ver o arquivo LICENSE para detalhes.
 
 Contato:
-Se você tiver alguma dúvida ou quiser entrar em contato, por favor, envie um email para seu-email@email.com.
+Se você tiver alguma dúvida ou quiser entrar em contato, por favor, envie um email para joaovitorrodriguesmoraes207@gmail.com
