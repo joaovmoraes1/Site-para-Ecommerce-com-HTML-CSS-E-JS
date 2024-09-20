@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/62738168-199a-48b5-8cf5-ff060cc73bed)# Soundbox - Fones de Ouvidos
 
-![image](https://github.com/user-attachments/assets/beb16082-2ca2-4e5a-bab7-17b6ac78c995)
+
 
 Este projeto é um template HTML/CSS responsivo para uma página de produto de fones de ouvidos. Ele demonstra como criar uma interface moderna e intuitiva para apresentar produtos de áudio.
 
